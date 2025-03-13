@@ -13,3 +13,12 @@
 
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
+
+Not refactored: Get All Students With Courses
+![img_12.png](img_12.png)
+
+Refactored: 
+![img_13.png](img_13.png)
+
+Total Diff: 
+![img_14.png](img_14.png)
