@@ -14,6 +14,18 @@
 ![img_2.png](img_2.png)
 ![img_3.png](img_3.png)
 
+![image](https://github.com/user-attachments/assets/0819e2ff-df36-4009-9c45-6f844cc82f11)
+![image](https://github.com/user-attachments/assets/5c717c86-cefd-46d2-adca-7f385cd22dab)
+![image](https://github.com/user-attachments/assets/7e58663f-594b-423a-87c4-0e5a8ae853a9)
+
+![image](https://github.com/user-attachments/assets/fd3fa7c4-3c9e-4b16-bdd6-cb876e82cf11)
+![image](https://github.com/user-attachments/assets/1e3a11ef-f7dd-4c65-b8a3-84249735a900)
+![image](https://github.com/user-attachments/assets/f7331e68-8476-4279-a445-68370d2e429c)
+
+![image](https://github.com/user-attachments/assets/83f188c3-7e61-4e5d-ac57-d2ffd2d05fe5)
+![image](https://github.com/user-attachments/assets/7aa39611-0d3f-49ab-8564-fe6f9720f0f8)
+![image](https://github.com/user-attachments/assets/7a908526-8ad1-48bc-aa32-3b795c65cb67)
+
 ### Reflection
 #### What is the difference between the approach of performance testing with JMeter and profiling with IntelliJ Profiler in the context of optimizing application performance?
 Load testing and performance testing are what JMeter is mainly used for, and it accomplishes these tasks by simulating a number of users and then analyzing the response times. In contrast, the IntelliJ Profiler is not a tool for overall system assessment, but rather for doing code-level profiling. It helps you determine which parts of your code are consuming CPU time, using excessive memory, or otherwise not operating efficiently. 
